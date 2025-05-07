@@ -1,4 +1,4 @@
-This is a web app who help users to manage they event. Add and update hey events
+This is a web app who help users to manage they event. Add and update they events
 
 ## Getting Started
 
